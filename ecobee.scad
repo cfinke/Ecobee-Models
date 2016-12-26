@@ -99,7 +99,4 @@ module ecobee3(mode="model") {
     }
 }
 
-/*
-68x36 cutout in back
-*/
-ecobee3(mode="model");
+ecobee3();
